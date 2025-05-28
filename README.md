@@ -15,7 +15,7 @@ class Afgprogrammer extends Flutter100DaysOfCode {
 ### [Watch it on Youtube](https://youtu.be/txvyAO894DY)
 
 
-# CodeLab App: Sua Plataforma de Estudos de Programação
+# Projeto CodeLab App: Plataforma de Estudos Voltado a Programação
 
 ## 1. Informações Gerais do Projeto
 
