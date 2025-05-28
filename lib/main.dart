@@ -25,7 +25,6 @@ class CodeLabApp extends StatelessWidget {
   }
 }
 
-// ===================== LOGIN PAGE =====================
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
 
@@ -215,7 +214,6 @@ class _LoginPageState extends State<LoginPage> {
   }
 }
 
-// ===================== MENU INICIAL =====================
 class MainMenuPage extends StatelessWidget {
   const MainMenuPage({super.key});
   @override
