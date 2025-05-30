@@ -1,33 +1,41 @@
-## Flutter Beautiful Login Page UI Design and Animation - Day 14
-
-```dart
-class Afgprogrammer extends Flutter100DaysOfCode {
-  video() {
-    return {
-      "title": "Flutter Beautiful Login Page UI Design and Animation",
-      "description": "Let's see how we can design a Login page UI and add some cool animation.",
-      "day": 14,
-      "videoLink": "https://youtu.be/txvyAO894DY"
-    }
-  }
-}
-```
-### [Watch it on Youtube](https://youtu.be/txvyAO894DY)
-
-
-# Projeto CodeLab App: Plataforma de Estudos Voltado a Programação
+# Projeto CodeLab App: Plataforma de Estudos de Programação
 
 ## 1. Informações Gerais do Projeto
+### Nome do Aplicativo
 
-O **CodeLab App** emerge como uma solução abrangente e integrada, meticulosamente desenvolvida para atender às necessidades multifacetadas de estudantes e entusiastas no universo da programação. Este projeto não se limita a uma única funcionalidade, mas sim consolida diversas ferramentas essenciais, desde o acompanhamento de cursos e aulas interativas até a gestão de desempenho acadêmico com cálculo de média, passando pela organização pessoal com notas e lembretes, aprimoramento da produtividade via técnica Pomodoro, e até mesmo a praticidade de agendamento de laboratórios. Em sua essência, o CodeLab App se propõe a ser um hub centralizado, onde o estudante pode otimizar seu tempo e aprimorar sua organização, elevando a experiência de aprendizado a um novo patamar de eficiência e conveniência.
+O aplicativo recebeu o nome de CodeLab.
 
-A concepção e o desenvolvimento deste aplicativo foram liderados por **Emanuel Rodrigues**, que atuou como Desenvolvedor Full-stack Flutter, responsável por orquestrar todas as camadas da aplicação, desde a lógica de negócio até a construção da interface do usuário. Para a materialização do CodeLab App, foram empregadas tecnologias de ponta e ferramentas robustas, garantindo performance e escalabilidade. A base tecnológica reside no **Flutter 3.x**, impulsionado pela linguagem **Dart 3.x**, que oferece um ambiente ágil e produtivo para o desenvolvimento multiplataforma. O **Git e GitHub** foram cruciais para o controle de versão e colaboração, assegurando um histórico de desenvolvimento organizado e seguro. No que tange à experiência visual e interatividade, a biblioteca `animate_do` foi habilmente utilizada para infundir o aplicativo com animações fluidas e atraentes, enriquecendo a interação do usuário. Adicionalmente, a configuração de `flutter_lints` para análise de código garantiu que o projeto aderisse às melhores práticas de desenvolvimento, promovendo um código limpo, consistente e de alta qualidade.
+### Descrição
+
+O CodeLab App é uma plataforma educacional multifuncional, desenvolvida para ser um auxiliar para universitários que cursam programação. O objetivo principal é centralizar e simplificar as diversas exigências do dia a dia acadêmico e de estudo, combatendo a dispersão de ferramentas e informações que frequentemente sobrecarrega os estudantes. O aplicativo resolve desafios cruciais, como a dificuldade em gerenciar o tempo de estudo e a organização de tarefas, oferecendo um sistema de lembretes onde os estudantes podem gerenciar suas atividades, garantindo que nenhum prazo importante seja perdido. O projeto também conta com outras funcionalidades essenciais para os usuários, como agendamento de laboratório e modo foco, transformando a rotina de estudos em uma experiência mais fluida e produtiva.
+
+Pensando em uma jornada de aprendizado inclusiva, o CodeLab App foi projetado desde sua concepção com a acessibilidade em mente. Incorporamos funcionalidades e um design que atendem a usuários com diversas limitações, tornando a experiência de aprendizado mais equitativa e abrangente para todos. Com ele, os usuários podem acompanhar cursos e aulas de programação de forma intuitiva, gerenciar suas notas e prazos acadêmicos com facilidade, e aproveitar ferramentas de produtividade essenciais, como o Pomodoro Timer, para otimizar o foco e a eficiência nos estudos. Além disso, a funcionalidade de agendamento de laboratórios da faculdade adiciona uma camada de praticidade, resolvendo problemas como a falta de comunicação na reserva, conectando o ambiente virtual com os recursos físicos disponíveis de forma descomplicada. Em suma, o CodeLab App é uma solução completa e pensada para elevar a experiência de aprendizado, tornando-a significativamente mais organizada, eficiente, acessível e verdadeiramente integrada.
+
+### Equipe
+
+Emanuel de Oliveira Rodrigues (04161645) - Desenvolvedor Flutter Principal: Responsável pela arquitetura geral do aplicativo, implementação das funcionalidades, integração de módulos e garantia da coesão técnica do projeto.
+
+João Vitor Ramos Soares (0416556)- Desenvolvedor Front-end: Focou na criação da interface do usuário, garantindo a estética visual, a responsividade dos layouts e a experiência de uso intuitiva, além de contribuir com a implementação de telas.
+
+Wallace Ney dos Santos Silva (04149344) - Desenvolvedor de Integrações e Testes: Atuou na implementação de lógicas de integração entre módulos, como a simulação de reserva de laboratórios, e na elaboração e execução de testes para garantir a estabilidade e o bom funcionamento do aplicativo.
+
+Bruna Rayane Silva da Costa (04158175) - Acessibilidade: Contribuiu na pesquisa e definição de funcionalidades de acessibilidade, além de auxiliar na coleta e análise dos requisitos do usuário para garantir que o aplicativo atendesse às necessidades do público-alvo.
+
+Kevin Guimarães da Silva Morais (04153687) - Desenvolvedor de Funcionalidades e Suporte Técnico: Participou na implementação de diversas funcionalidades, como o timer Pomodoro e o cálculo de notas, e forneceu suporte técnico na resolução de desafios de codificação.
+
+Eduardo Henrique do Nascimento Costa (04154362) - Documentador: Colaborou na organização e estruturação do conteúdo educacional simulado no app, além de ter um papel na documentação do projeto, incluindo a elaboração e revisão do README.md.
+
+### Tecnologias Utilizadas
+
+Para a construção do CodeLab App, foi adotado um conjunto de tecnologias modernas e eficientes, garantindo alta performance e uma experiência de usuário fluida. A base do nosso aplicativo é o Flutter, o renomado framework de UI da Google. Ele nos permitiu desenvolver uma aplicação robusta para múltiplas plataformas a partir de uma única base de código, otimizando o processo e assegurando consistência. A linguagem de programação utilizada é o Dart, otimizada para o desenvolvimento front-end, conhecida por sua velocidade e facilidade de uso.
+
+Para o controle de versão e a colaboração entre a equipe, foi realizada no GitHub, que nos proporcionam um histórico de desenvolvimento organizado e um ambiente seguro para o compartilhamento de código. Além disso, incorporamos bibliotecas e ferramentas importantes como "animate_do" para adicionar animações fluidas e envolventes, enriquecendo a interação visual do usuário. A utilização de "flutter_lints" é crucial para mantermos a qualidade do código, garantindo que sigamos as melhores práticas de desenvolvimento e produzamos um código limpo e consistente.
 
 ## 2. Objetivos do Aplicativo
 
-O principal propósito do CodeLab App é transcender a ideia de um mero conjunto de ferramentas, posicionando-se como uma plataforma holística que empodera estudantes de programação em todas as etapas de sua jornada acadêmica e de autoestudo. O aplicativo foi arquitetado com uma visão clara de simplificar a rotina de estudos, atacando diretamente os desafios de organização, acompanhamento e produtividade. Um dos pilares é **centralizar recursos**, eliminando a necessidade de múltiplos aplicativos ao reunir em um só lugar funcionalidades que vão desde o aprendizado ativo até a gestão de tempo e informações. Busca-se também **otimizar o aprendizado** ao oferecer um sistema intuitivo de acompanhamento de progresso em cursos e aulas, culminando na possibilidade simbólica de emissão de certificados, o que serve como um poderoso incentivo para a conclusão de módulos e a manutenção da disciplina.
+O principal objetivo do CodeLab App é ir além da ideia de um mero conjunto de ferramentas, posicionando-se como uma plataforma usual que auxilia estudantes de programação em todas as etapas de sua jornada acadêmica e de estudos. O aplicativo foi arquitetado com uma visão clara de simplificar a rotina de estudos, atacando diretamente os desafios de organização, acompanhamento e produtividade. Um dos pilares é **centralizar recursos**, eliminando a necessidade de múltiplos aplicativos ao reunir em um só lugar funcionalidades que vão desde o aprendizado ativo até a gestão de tempo e informações. Buscou-se também **otimizar o aprendizado** ao oferecer um sistema intuitivo de acompanhamento de progresso em cursos e aulas, culminando na possibilidade simbólica de emissão de certificados, o que serve como um incentivo para a conclusão de módulos e a manutenção da disciplina. A ideia é que o aplicativo possa ser usado em conjunto as universidades de modo que facilite a vida dos estudantes.
 
-Além disso, o CodeLab App visa **facilitar a gestão acadêmica**, simplificando tarefas rotineiras e muitas vezes tediosas, como o cálculo de médias e a organização de notas e lembretes cruciais, permitindo que o estudante foque mais no conteúdo e menos na burocracia. No quesito **produtividade**, a inclusão da técnica Pomodoro é estratégica, fornecendo uma ferramenta eficaz para gerenciar o tempo de estudo de forma estruturada, combatendo a procrastinação e otimizando o foco. A preocupação com a **acessibilidade** é intrínseca ao design do aplicativo, garantindo que ele seja utilizável por um espectro diversificado de usuários, com recursos que visam uma experiência inclusiva. Por fim, ao permitir a **conexão entre o aluno e a instituição** através da funcionalidade de reserva de laboratórios, o aplicativo estreita a ponte entre o ambiente virtual de estudo e os recursos físicos disponíveis, enriquecendo a experiência educacional como um todo.
+Além disso, o CodeLab App visa **facilitar a gestão acadêmica**, simplificando tarefas rotineiras e muitas vezes tediosas, como o cálculo de médias e a organização de notas e lembretes cruciais, permitindo que o estudante foque mais no conteúdo. No quesito **produtividade**, a inclusão da técnica Pomodoro é estratégica, fornecendo uma ferramenta eficaz para gerenciar o tempo de estudo de forma estruturada, combatendo a procrastinação e otimizando o foco. A preocupação com a **acessibilidade** é intrínseca ao design do aplicativo, garantindo que ele seja utilizável por um espectro diversificado de usuários, com recursos que visam uma experiência inclusiva. Por fim, ao permitir a **conexão entre o aluno e a instituição** através da funcionalidade de reserva de laboratórios, o aplicativo melhora o ambiente virtual de estudo e os recursos físicos disponíveis, enriquecendo a experiência educacional como um todo.
 
 ## 3. Funcionalidades
 
