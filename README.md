@@ -33,6 +33,14 @@ O CodeLab App é uma plataforma educacional multifuncional criada para auxiliar 
   <img width="45" style="margin-right: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python-logo"/>
 </p>
 
+- **Dart** – Linguagem principal, otimizada para desenvolvimento front-end com Flutter.  
+- **Flutter** – Framework da Google para desenvolvimento multiplataforma (Android, iOS, Web).  
+- **Visual Studio Code** – Editor de código leve e extensível, usado para programar e depurar.  
+- **Android Studio** – IDE usada para emulação e testes em dispositivos Android.  
+- **Git** – Sistema de controle de versão para rastreamento e colaboração.  
+- **GitHub** – Repositório remoto para versionamento e integração contínua.  
+- **HTML5** – Utilizado para estruturação de conteúdos e páginas associadas.  
+- **Python** – Usado para scripts auxiliares ou automação.
 
 Para a construção do CodeLab App, foi adotado um conjunto de tecnologias modernas e eficientes, garantindo alta performance e uma experiência de usuário fluida. A base do nosso aplicativo é o Flutter, o renomado framework de UI da Google. Ele nos permitiu desenvolver uma aplicação robusta para múltiplas plataformas a partir de uma única base de código, otimizando o processo e assegurando consistência. A linguagem de programação utilizada é o Dart, otimizada para o desenvolvimento front-end, conhecida por sua velocidade e facilidade de uso.
 
