@@ -69,7 +69,7 @@ O CodeLab App foi projetado com um conjunto abrangente de funcionalidades, cada 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
   <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
-    <img src="uploaded:Captura de tela 2025-05-31 113344.png-d3a7c2af-a182-4f17-91b2-3c426ec74ab3" alt="Tela de Login do CodeLab App" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="assets/screenshot/Captura de tela 2025-05-31 113344.png" alt="Tela de Login do CodeLab App" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <p style="font-size: 0.9em; color: #555; margin-top: 10px;">Tela de Login: Entrada segura na plataforma.</p>
   </div>
   <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
@@ -77,7 +77,7 @@ O CodeLab App foi projetado com um conjunto abrangente de funcionalidades, cada 
     <p style="font-size: 0.9em; color: #555; margin-top: 10px;">Menu Principal: Escolha de funcionalidades.</p>
   </div>
   <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
-    <img src="" alt="Tela de Aulas e Cursos do CodeLab App" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="assets/screenshot/Captura de tela 2025-05-31 113344.png" alt="Tela de Aulas e Cursos do CodeLab App" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <p style="font-size: 0.9em; color: #555; margin-top: 10px;">Aulas e Cursos: Acompanhamento do progresso.</p>
   </div>
 </div>
