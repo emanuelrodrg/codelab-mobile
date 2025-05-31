@@ -19,6 +19,8 @@ O CodeLab App é uma plataforma educacional multifuncional criada para auxiliar 
 * Bruna Rayane Silva da Costa (04158175): ♿ Especialista em Acessibilidade e Analista de Requisitos.
 * Kevin Guimarães da Silva Morais (04153687): ✨ Desenvolvedor de Funcionalidades e Suporte Técnico.
 * Eduardo Henrique do Nascimento Costa (04154362): 📝 Documentador e Suporte de Conteúdo.
+* Gabriel Venturieri Viana da Silva: Funcionalidade de Acessibilidade.
+* Gustavo Trindade (04128588): Desenvolvedor.
   
 ###  💻 Tecnologias Utilizadas
 
@@ -27,7 +29,10 @@ O CodeLab App é uma plataforma educacional multifuncional criada para auxiliar 
   <img width="45" style="margin-right: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart-logo"/>
   <img width="45" style="margin-right: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter-logo"/>
   <img width="45" style="margin-right: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio-logo"/>
+  <img width="45" style="margin-right: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5-logo"/>
+  <img width="45" style="margin-right: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python-logo"/>
 </p>
+
 
 Para a construção do CodeLab App, foi adotado um conjunto de tecnologias modernas e eficientes, garantindo alta performance e uma experiência de usuário fluida. A base do nosso aplicativo é o Flutter, o renomado framework de UI da Google. Ele nos permitiu desenvolver uma aplicação robusta para múltiplas plataformas a partir de uma única base de código, otimizando o processo e assegurando consistência. A linguagem de programação utilizada é o Dart, otimizada para o desenvolvimento front-end, conhecida por sua velocidade e facilidade de uso.
 
@@ -65,22 +70,14 @@ O CodeLab App foi projetado com um conjunto abrangente de funcionalidades, cada 
 
 * 👤 **Meu Perfil**:
     * Exibição de dados do estudante (nome, e-mail, matrícula, semestre) e progresso individual no curso principal.
+      
 ## 4. 🎨 Interface e Design
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
-  <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
-    <img src="assets/screenshot/Captura de tela 2025-05-31 113344.png" alt="Tela de Login do CodeLab App" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="font-size: 0.9em; color: #555; margin-top: 10px;">Tela de Login: Entrada segura na plataforma.</p>
-  </div>
-  <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
-    <img src="uploaded:Captura de tela 2025-05-31 113551.png-2e2bcfa6-34ca-0000-0000-000000000000" alt="Tela de Funcionalidades do CodeLab App" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="font-size: 0.9em; color: #555; margin-top: 10px;">Menu Principal: Escolha de funcionalidades.</p>
-  </div>
-  <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
-    <img src="assets/screenshot/Captura de tela 2025-05-31 113344.png" alt="Tela de Aulas e Cursos do CodeLab App" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="font-size: 0.9em; color: #555; margin-top: 10px;">Aulas e Cursos: Acompanhamento do progresso.</p>
-  </div>
-</div>
+<p align="center">
+  <img src="assets/screenshot/Captura de tela 2025-05-31 113344.png" alt="Tela de Login" width="310"/>
+  <img src="assets/screenshot/Captura de tela 2025-05-31 113551.png" alt="Menu Principal" width="310"/>
+  <img src="assets/screenshot/Captura de tela 2025-05-31 113608.png" alt="Aulas e Cursos" width="310"/>
+</p>
 
 A interface e o design do CodeLab App foram concebidos com a ideia de serem não apenas esteticamente agradáveis, mas sobretudo funcionais e intuitivos, elevando a usabilidade e a experiência do usuário. A **paleta de cores** dominante, composta por tons profundos de azul escuro e o frescor do branco, com acentos estratégicos em verde para indicar sucesso ou progresso, e tons de amarelo ou vermelho para avisos e erros, confere ao aplicativo uma identidade visual profissional e focada, que é típico com o universo da tecnologia. O uso de **gradientes de azul** no topo das telas adiciona um elemento de dinamismo e coesão visual, conectando fluidamente as diversas seções do aplicativo.
 
