@@ -61,5 +61,6 @@ Para utilizar o CodeLab App em seu ambiente de desenvolvimento, o Flutter SDK de
 
 Com o ambiente pronto, o processo se inicia clonando o repositório do projeto. Abra o terminal de sua preferência (seja o terminal integrado do VS Code, Git Bash ou o prompt de comando) e execute o comando `git clone` seguido do URL do repositório, por fim, digite flutter run no terminal.
 ```bash
+
 git clone [https://github.com/emanuelrodrg/codelab-mobile.git](https://github.com/emanuelrodrg/codelab-mobile.git).
 
