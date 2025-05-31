@@ -64,3 +64,20 @@ Com o ambiente pronto, o processo se inicia clonando o repositório do projeto. 
 
 git clone [https://github.com/emanuelrodrg/codelab-mobile.git](https://github.com/emanuelrodrg/codelab-mobile.git).
 
+## 🛠️ Tecnologias Utilizadas
+
+### ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg) Flutter
+Framework principal para desenvolvimento multiplataforma.
+
+### ![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg) Dart
+Linguagem utilizada no desenvolvimento do aplicativo.
+
+### ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) GitHub
+Controle de versão e colaboração no código.
+
+### 🚀 animate_do
+Biblioteca para animações fluidas no aplicativo.
+
+### ✅ flutter_lints
+Pacote de boas práticas e padronização do código.
+
